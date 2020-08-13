@@ -3,7 +3,6 @@
 """
 # Author: Noman Akbar
 # Data: 18 August 2019
-# Coding exercise for Abyss Solutions
 ##############################################################################
 Usage: count-areas <filename.bin> --shape <width>,<height>
 Input: Input is a binary image with extension .bin
